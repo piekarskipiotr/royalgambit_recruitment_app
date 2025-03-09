@@ -1,0 +1,2 @@
+/Users/piotr/IdeaProjects/royalgambit_recruitment_app/android/app/.cxx/Debug/6s4g61h6/x86/CMakeFiles/edit_cache.dir
+/Users/piotr/IdeaProjects/royalgambit_recruitment_app/android/app/.cxx/Debug/6s4g61h6/x86/CMakeFiles/rebuild_cache.dir
